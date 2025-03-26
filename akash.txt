@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 akakakakkakakka
 kakakkakaka
+=======
+my branch is EIE
+>>>>>>> main
